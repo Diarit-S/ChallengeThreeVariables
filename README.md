@@ -1,0 +1,2 @@
+# ChallengeThreeVariables
+Third JavaScript challenge 
